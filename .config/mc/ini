@@ -111,6 +111,10 @@ editor_group_undo=0
 editor_ask_filename_before_edit=0
 editor_filesize_threshold=64M
 
+editor_drop_selection_on_copy=1
+editor_state_full_filename=1
+editor_stop_format_chars=-+*\\,.;:&>
+
 [Layout]
 message_visible=0
 keybar_visible=1
@@ -126,7 +130,7 @@ free_space=1
 
 horizontal_split=0
 vertical_equal=1
-left_panel_size=96
+left_panel_size=74
 horizontal_equal=1
 top_panel_size=54
 
@@ -206,6 +210,8 @@ show_mini_info=true
 torben_fj_mode=false
 
 simple_swap=false
+
+select_flags=6
 
 [FindFile]
 ignore_dirs=
