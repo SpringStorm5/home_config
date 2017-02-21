@@ -11,3 +11,5 @@
 !.tmux.conf
 !.ttytterrc
 !.xinitrc
+!.vim/
+!.vimrc

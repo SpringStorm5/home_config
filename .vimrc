@@ -1,3 +1,4 @@
+filetype plugin on
 set number
 ""
 set clipboard=unnamed
